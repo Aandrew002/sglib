@@ -1,0 +1,2 @@
+# sglib
+Smart Graphics Library
